@@ -57,7 +57,7 @@ I kept the language simple and human—short sentences, small checklists, and co
 ## Reasoning & Design Choices
 
 ### 1) Tone and style
-- I chose a calm, friendly tone. Debugging can be stressful; warmth reduces anxiety.  
+- I decided on a calm, friendly tone. Debugging can be stressful; warmth reduces anxiety.  
 - Short sentences and bulleted steps keep the advice scannable while the student is in the editor.  
 - The “checkpoint question” invites active thinking and confirms progress.
 
@@ -97,6 +97,8 @@ I kept the language simple and human—short sentences, small checklists, and co
 - This README is the main artifact.  
 - No external dependencies or code files are required.  
 - The writing is intentionally plain and direct so evaluators can read it fast.
+
+---
 
 **Maintainer:** Manish Yadav  
 **Contact:** manish.productive@gmail.com
